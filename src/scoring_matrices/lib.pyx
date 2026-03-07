@@ -1,5 +1,5 @@
 # distutils: language = c
-# cython: language_level=3, linetrace=True, binding=True
+# cython: language_level=3, binding=True
 """Dependency free, Cython-compatible scoring matrices for bioinformatics.
 """
 
